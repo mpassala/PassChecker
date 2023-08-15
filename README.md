@@ -1,5 +1,6 @@
 # PassChecker
-Lebron Password Strength Checker (Python)
+
+Python Password Strength Checker
 
 Password must include 14 characters, symbol, number, capitals to be considered a strong password.
 
